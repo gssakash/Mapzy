@@ -1,4 +1,4 @@
-// let PORT = process.env.PORT || 8800;
+let PORT = process.env.PORT || 8800;
 
 const express = require('express');
 const mongoose = require('mongoose');
@@ -35,6 +35,6 @@ else {
     })
 }
 
-app.listen(8800,() => {
+app.listen(PORT,() => {
     console.log("Server Started");
 })
