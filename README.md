@@ -4,7 +4,8 @@
 
 <!-- # ![pageres](https://ibb.co/Qvx6D9n) -->
 <p align="center">
-  <img src="https://ibb.co/Qvx6D9n" />
+<!--   <img src="https://ibb.co/Qvx6D9n" /> -->
+  ![Image](https://ibb.co/Qvx6D9n)
 </p>
 
  <br />
