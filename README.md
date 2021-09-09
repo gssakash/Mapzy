@@ -4,7 +4,7 @@
 
 <!-- # ![pageres](https://ibb.co/Qvx6D9n) -->
 <p align="center">
-  <img src="https://i.ibb.co/zVtS6sb/ok.png" />
+  <img src="https://i.ibb.co/zVtS6sb/ok.png" width="150px" height="150px"/>
 </p>
 
  <br />
