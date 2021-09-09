@@ -26,7 +26,7 @@ A React App built with the Mapbox API and a REST API that allows users to save l
 
 ## Video
 
- [![Add-youtube-link-in-Readme.md](https://youtu.be/tHfomuO3MyI)
+ [![Add-youtube-link-in-Readme.md](https://www.youtube.com/watch?v=tHfomuO3MyI)
  
 <br />
 
